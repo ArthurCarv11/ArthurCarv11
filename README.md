@@ -1,8 +1,8 @@
 ## Hello 👋
 ## I'm Arthur Carvalho
-  💻 Im a back-end developer with knowledge in SpringBoot, Python and Node.js
-  
-  📍 Bahia, Brazil
+  - 💻 **Back-end Developer** | Spring Boot · Python · Node.js · MySQL  
+  - 🛜 **Networking enthusiast** — IP addressing, protocols, and infrastructure  
+  - 📍 Living in Bahia, Brazil  
 
 
 
