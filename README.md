@@ -1,5 +1,5 @@
-## Hi there 👋
-olá amigo
+## Hello 👋
+## Im a back-end developer with knowledge in SpringBoot, Python and Node.js
 <!--
 **ArthurCarv11/ArthurCarv11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
